@@ -21,6 +21,15 @@ This is a beginner-friendly example, so you can follow along and learn the basic
 
 ---
 
+## Project Highlights
+
+**Donor Prediction Analytics – Academic Project**  
+- Applied machine learning techniques to predict donor likelihood, enhancing targeted outreach strategies.  
+- Developed end-to-end pipeline in Python and Jupyter, including data preprocessing, model training, and results visualization.  
+- Showcased advanced analytics, increasing identification accuracy of potential donors.
+
+---
+
 ## Quick Start
 
 1. **Clone this repo:**
